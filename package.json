@@ -9,17 +9,20 @@
   "engines": {
     "gitbook": "*"
   },
+  "dependencies": {
+    "javascript-natural-sort": "*"
+  }
   "keywords": [
     "gitbook"
   ],
-  "homepage": "https://github.com/pm5/gitbook-plugin-json",
+  "homepage": "https://github.com/kokoye2007/gitbook-plugin-json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pm5/gitbook-plugin-json.git"
+    "url": "https://github.com/kokoye2007/gitbook-plugin-json.git"
   },
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/pm5/gitbook-plugin-json/issues"
+    "url": "https://github.com/kokoye2007/gitbook-plugin-json/issues"
   },
   "author": "Pomin Wu <pomin5@gmail.com>"
 }
